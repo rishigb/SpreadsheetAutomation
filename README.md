@@ -6,7 +6,7 @@ I have made a lot of changes, you will see some of them here.
 
 What's happening inside:
 
-* <s> Email is sent to the manager the moment a form is submited.<s>
+* <s> Email is sent to the manager the moment a form is submited.</s>
 
 * <s> Email includes a link to approval from the manager.</s>
 
