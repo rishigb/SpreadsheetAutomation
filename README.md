@@ -6,9 +6,9 @@ I have made a lot of changes, you will see some of them here.
 
 What's happening inside:
 
-<s>1. Email is sent to the manager the moment a form is submited.<s>
+1. <s> Email is sent to the manager the moment a form is submited.<s>
 
-<s>2. Email includes a link to approval from the manager.</s>
+2. <s> Email includes a link to approval from the manager.</s>
 
 3. When the manager approves or rejects, the filed in the spreadsheet is updated.
 
