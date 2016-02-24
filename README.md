@@ -10,9 +10,9 @@ What's happening inside:
 
 * <s> Email includes a link to approval from the manager.</s>
 
-*<s> When the manager approves or rejects, the filed in the spreadsheet is updated. </s>
+* <s> When the manager approves or rejects, the filed in the spreadsheet is updated. </s>
 
-*<s> If 3 doesn't happen, another field called submitted is updated. </s>
+* <s> If 3 doesn't happen, another field called submitted is updated. </s>
 
-*<s> Based on the status in column for approval or reject, the email is sent back to employee saying that the request has been submitted.</s>
+* <s> Based on the status in column for approval or reject, the email is sent back to employee saying that the request has been submitted.</s>
 
