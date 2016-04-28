@@ -1,8 +1,8 @@
 var submitted ="SUBMITTED";
 var approved ="APPROVED";
 var rejected ="REJECTED";
-var APPROVAL_FORM_URL ="https://docs.google.com/forms/d/1CFdDZOffbSSi1kFZvQ3BNLEMUUmLM4kw2QBJioqdnPI/viewform" ;
-var APPROVALS_SPREADSHEET_ID="1jPaQ2OwMJfY565WbaQ7bhgo7tTJ7QdgOUSyMlNf_45c";
+var APPROVAL_FORM_URL ="" ;
+var APPROVALS_SPREADSHEET_ID="";
 
 function mainFunction() {
     var sheet = SpreadsheetApp.getActiveSheet();
