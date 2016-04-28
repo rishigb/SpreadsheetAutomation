@@ -16,9 +16,9 @@ What's happening inside:
 
 * <s> Based on the status in column for approval or reject, the email is sent back to employee saying that the request has been submitted.</s>
 
-Look at (this)[http://stackoverflow.com/questions/20108511/is-it-possible-to-prefill-a-google-form-using-data-from-a-google-spreadsheeT] link for pre-filled forms.
+Look at [this](http://stackoverflow.com/questions/20108511/is-it-possible-to-prefill-a-google-form-using-data-from-a-google-spreadsheeT) link for pre-filled forms.
 
 
 ####Finished Script
 
-The (source code)[https://gist.github.com/rishigb/707a41b068d745d9608e691098fbe412] is a secret gist.
+The [source code](https://gist.github.com/rishigb/707a41b068d745d9608e691098fbe412) is a secret gist.
